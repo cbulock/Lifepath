@@ -3,6 +3,7 @@
         "version" : "0.0.1",
 	"description" : "Life Path Number Finder",
 	"homepage" : "http://cbulock.github.com/Lifepath",
+	"license" : "MIT",
 	"authors" : [
 		{
 			"name" : "Cameron Bulock",
